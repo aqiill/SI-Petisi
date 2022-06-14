@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "629c8a784d0d000050001aa6"
+  },
+  "opsi": "demo",
+  "id_petisi": {
+    "$oid": "629c8a784d0d000050001aa5"
+  }
+},{
+  "_id": {
+    "$oid": "629c8a784d0d000050001aa7"
+  },
+  "opsi": "masa ga demo",
+  "id_petisi": {
+    "$oid": "629c8a784d0d000050001aa5"
+  }
+},{
+  "_id": {
+    "$oid": "629dc7f3662d000000005c67"
+  },
+  "opsi": "tinjau kembali dong",
+  "id_petisi": {
+    "$oid": "629dc7f3662d000000005c66"
+  }
+},{
+  "_id": {
+    "$oid": "629dc7f3662d000000005c68"
+  },
+  "opsi": "turunin dikit aja",
+  "id_petisi": {
+    "$oid": "629dc7f3662d000000005c66"
+  }
+},{
+  "_id": {
+    "$oid": "629dc7f3662d000000005c69"
+  },
+  "opsi": "ya diturunin lah",
+  "id_petisi": {
+    "$oid": "629dc7f3662d000000005c66"
+  }
+}]

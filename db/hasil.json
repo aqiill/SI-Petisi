@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "628502a3bb31f6ee2a0c3e49"
+  },
+  "id_solusi": "1",
+  "id_user": "1"
+},{
+  "_id": {
+    "$oid": "628502acbb31f6ee2a0c3e4a"
+  },
+  "id_solusi": "2",
+  "id_user": "2"
+}]

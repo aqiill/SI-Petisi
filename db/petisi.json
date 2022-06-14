@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "629c8a784d0d000050001aa5"
+  },
+  "judul": "tolak omnibuslaw",
+  "konten": "pokonya harus demo",
+  "thumbnail": "257723300_WhatsApp Image 2022-06-05 at 15.37.42.jpeg",
+  "date_created": "2022-06-05",
+  "id_user": {
+    "$oid": "629c4e434d0d000050001a95"
+  },
+  "status": "pending",
+  "status_akhir": "pending",
+  "date_expired": "2022-06-11",
+  "target": "1000",
+  "kategori": "pembelajaran",
+  "alasan": [
+    {
+      "isi": "mau demo aja, ga boleh emang?",
+      "user_id": {
+        "$oid": "629c4e264d0d000050001a94"
+      },
+      "date_alasan": "2022-06-05 14:55:40"
+    },
+    {
+      "isi": "ayo demo gais",
+      "user_id": {
+        "$oid": "629c91cc4d0d000050001aa8"
+      },
+      "date_alasan": "2022-06-05 15:04:44"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "629dc7f3662d000000005c66"
+  },
+  "judul": "turunkan gaji dosen",
+  "konten": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "thumbnail": "1725846896_WhatsApp Image 2022-06-05 at 15.37.42.jpeg",
+  "date_created": "2022-06-06",
+  "id_user": {
+    "$oid": "629c91cc4d0d000050001aa8"
+  },
+  "status": "pending",
+  "status_akhir": "pending",
+  "date_expired": "2022-06-11",
+  "target": "2000",
+  "kategori": "finansial",
+  "alasan": [
+    {
+      "isi": "mau tanda tangan aja, emang ga boleh gtu?",
+      "user_id": {
+        "$oid": "629c91cc4d0d000050001aa8"
+      },
+      "date_alasan": "2022-06-06 14:52:19"
+    }
+  ]
+}]

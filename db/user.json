@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "629c4e264d0d000050001a94"
+  },
+  "nama": "catur",
+  "email": "caturiani.pratidina.tif420@polban.ac.id",
+  "password": "c53255317bb11707d0f614696b3ce6f221d0e2f2",
+  "level": "member",
+  "status": "n"
+},{
+  "_id": {
+    "$oid": "629c4e434d0d000050001a95"
+  },
+  "nama": "aqil",
+  "email": "aqil@polban.ac.id",
+  "password": "c53255317bb11707d0f614696b3ce6f221d0e2f2",
+  "level": "admin",
+  "status": "n"
+},{
+  "_id": {
+    "$oid": "629c91cc4d0d000050001aa8"
+  },
+  "nama": "faizal",
+  "email": "faizal@polban.ac.id",
+  "password": "c53255317bb11707d0f614696b3ce6f221d0e2f2",
+  "level": "member",
+  "status": "n"
+},{
+  "_id": {
+    "$oid": "629db562662d000000005c65"
+  },
+  "nama": "nisa",
+  "email": "nisa@polban.ac.id",
+  "password": "c53255317bb11707d0f614696b3ce6f221d0e2f2",
+  "level": "member",
+  "status": "n"
+}]
